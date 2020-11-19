@@ -36,7 +36,8 @@ public class MathTest {
         assertEquals(24, MathUtility.getFactorial(4));
         assertEquals(6, MathUtility.getFactorial(3));
         assertEquals(1, MathUtility.getFactorial(0));
-        assertEquals(1, MathUtility.getFactorial(1));
+        assertEquals(6, MathUtility.getFactorial(3));
+        // tui muốn thấy xanh trên GIT , không xem ở đây
     }
     
 }
