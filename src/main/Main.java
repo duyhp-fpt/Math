@@ -24,6 +24,8 @@ public class Main {
         
         //e: ném về vùng ngoại lệ IllegalArgumentException nếu giai thừa -5
         System.out.println("-5!: " + MathUtility.getFactorial(-5));
+        
+        System.out.println("CI for today.");
     }
     //Code viết ra thì Developer phải test trước cái đã
     //có vài hình thwucs test code khác nhau
